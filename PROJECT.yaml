@@ -1,5 +1,6 @@
-id: 67bbfd57-169a-4f56-bfe5-8bdcc351e19f
 name: feature-flaggy
+project_scope: main
+project_type: standalone
 description: React + TypeScript + Vite
 tier: prototype
 lane: oss
@@ -9,5 +10,6 @@ stack: [typescript, react, convex, vite]
 repo: "https://github.com/mxn2020/feature-flaggy"
 deploy_url: null
 last_active: 2026-02-24
-tags: []
-notes: 
+tags: [feature-flags, toggles, experimentation, ab-testing, deployment, tools, release]
+notes: null
+id: 67bbfd57-169a-4f56-bfe5-8bdcc351e19f
